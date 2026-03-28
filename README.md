@@ -24,3 +24,7 @@ The Advanced Encryption Tool has a wide range of applications. It can be used by
 However, the tool also has certain limitations. The most critical one is that if the encryption key is lost, the data becomes permanently inaccessible. Additionally, the overall security depends on the strength of the key or password used. Weak passwords can make the system vulnerable to attacks.
 
 In conclusion, the Advanced Encryption Tool is a robust and practical solution for securing digital data using AES-256 encryption. It combines strong security mechanisms with user-friendly design, making it suitable for both learning purposes and real-world applications.
+
+*Output:-
+![Image](https://github.com/user-attachments/assets/d13ad26f-dbd9-42a8-8581-a9250a865f13)
+
